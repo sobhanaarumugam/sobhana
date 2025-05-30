@@ -37,9 +37,9 @@ With 2+ years of experience, I’ve helped brands achieve up to **85% growth in 
 - A/B Testing & Campaign Optimization
 
 ### 🛠 Tech & Tools
-- WordPress, HTML/CSS (Basic)
+- WordPress, HTML/CSS 
 - Microsoft Office Suite (Excel, PowerPoint)
-- Trello, Google Workspace, Mailchimp (basic)
+
 
 ---
 
